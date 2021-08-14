@@ -1,3 +1,4 @@
-<br><br>
-<p align="center"><a href="https://nor1c.xyz"><b>https://nor1c.xyz</b></a></p>
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=norictech)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=45yc0u5bhjldoswyfev2db2lb&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=45yc0u5bhjldoswyfev2db2lb&redirect=true)
+<!-- ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=45yc0u5bhjldoswyfev2db2lb&count=10) -->

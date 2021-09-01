@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=norictech&layout=compact" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=default&langs_count=6&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=norictech&layout=compact" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=default&langs_count=6&layout=compact" height="190"/>
 </p>
 
 <p align="center">

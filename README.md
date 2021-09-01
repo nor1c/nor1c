@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=norictech&layout=compact" height="179"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=default&langs_count=6&layout=compact" height="179"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=nor1c&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="297" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=nor1c&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="273" /></a>
 </p>
 
 <p align="center">

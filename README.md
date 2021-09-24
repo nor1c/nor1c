@@ -1,4 +1,7 @@
 <p align="center">
+  <b>Favorite stack</b>: TS, ExpressJS, VueJS with Nuxt, TailwindCSS, MariaDB/MongoDB, React Native.
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=norictech&layout=compact" height="191"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=default&langs_count=6&layout=compact" height="191"/>
   <img alt="" src="https://activity-graph.herokuapp.com/graph?username=nor1c&bg_color=f5f5f5&color=333333&line=ffa1ff&point=c431c4&hide_border=true&area=true" height="297" />

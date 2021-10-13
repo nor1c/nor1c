@@ -1,6 +1,13 @@
 <p align="center">
-  <b>Favorite stack</b>: TS, ExpressJS, VueJS with Nuxt, TailwindCSS, MariaDB/MongoDB, React Native.
+  JS developer, formerly using PHP as my main stack. Currently learning Go, and mastering Javascript.
+  <br>
+  <a target="_blank" href="https://nor1c.xyz">personal site</a> • 
+  <a target="_blank" href="https://twitter.com/nor1c_">twitter</a> • 
+  <a target="_blank" href="https://keybase.io/nor1c">keybase</a>
 </p>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=norictech&layout=compact" height="191"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=default&langs_count=6&layout=compact" height="191"/>

@@ -1,17 +1,4 @@
-<p align="left">
-  I'm looking for partner who likes anime and art things to work on <b><a target="_blank" href="https://github.com/upymoe">upy</a></b> (a community platform for artists), once again I'm looking for a partner (not an employee) which means I'm not giving u salary, instead, you will have some property ownership of the platform.
-  <br>
-  The revenue sources comes from adsense in the app and premium subsription from users.
-  <br><br>
-  To join with me, you are required to have knowledge of Node, Express, TypeScript, Tailwind and Vue/Nuxt. 
-  If you are interested, you can send me a message through <a href="https://twitter.com/nor1c_">my twitter</a> or send me an <a href="mailto://ahmad.uji1902@gmail.com">email</a>.
-</p>
-
-<hr>
-
 <p align="center">
-  JS developer, formerly using PHP as my main stack. Currently learning Go, and mastering Javascript.
-  <br>
   <a target="_blank" href="https://nor1c.xyz">personal site</a> • 
   <a target="_blank" href="https://twitter.com/nor1c_">twitter</a> • 
   <a target="_blank" href="https://keybase.io/nor1c">keybase</a>

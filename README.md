@@ -14,7 +14,3 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=nor1c&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />
 </p>
-
-<br><br><br>
-
-![Metrics](https://metrics.lecoq.io/nor1c?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=full-year&config.timezone=Asia%2FBangkok)

@@ -10,6 +10,11 @@
 <!--   <img alt="" src="https://activity-graph.herokuapp.com/graph?username=nor1c&bg_color=f5f5f5&color=333333&line=ffa1ff&point=c431c4&hide_border=true&area=true" height="297" /> -->
   <img src="https://wakatime.com/share/@norictech/fb139809-f1a5-437a-aebd-83464df376b1.svg" height="350" />
   <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nor1c&theme=nord_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nor1c&theme=nord_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nor1c&theme=nord_dark">
+  
+  <br><br>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=45yc0u5bhjldoswyfev2db2lb&cover_image=true&theme=natemoo-re">
   <br>
   <img src="https://komarev.com/ghpvc/?username=nor1c&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />

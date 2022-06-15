@@ -11,8 +11,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nor1c&theme=nord_dark" height="150">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nor1c&theme=nord_dark" height="149" width="210">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nor1c&theme=nord_dark" height="149" width="210">
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nor1c&theme=nord_dark" height="149" width="210">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nor1c&theme=nord_dark" height="149" width="210"> -->
 </p>
   
 <p align="center">

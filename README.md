@@ -6,7 +6,7 @@
 
 <p align="center"><b>~ Welcome 🚀 ~</b></p>
 
-Hi, I'm Fauzi, a web developer based in Asia, I'm currently creating an open-source platform for artists, if you like what I do you can help us by sponsoring the project or you can also contribute to the project.
+Hi, I'm Fauzi, a web developer based in Asia, I'm currently creating an open-source platform for artists ([Upy](https://github.com/uuppyy)), if you like what I do you can help us by sponsoring the project or you can also contribute to the project.
 
 Your sponsorship helps our project stay active and grow even better, every sponsorship means a lot to us.
 

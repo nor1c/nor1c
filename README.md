@@ -4,6 +4,16 @@
   <a target="_blank" href="https://keybase.io/nor1c">keybase</a>
 </p> -->
 
+<p align="center"><b>~ Welcome 🚀 ~</b></p>
+
+Hi, I'm Fauzi, a web developer based in Asia, I'm currently creating an open-source platform for artists, if you like what I do you can help us by sponsoring the project or you can also contribute to the project.
+
+Your sponsorship helps our project stay active and grow even better, every sponsorship means a lot to us.
+
+<a align="center" href="https://github.com/sponsors/uuppyy"><b>Sponsor Us</b></a>
+
+<hr>
+
 <p align="center">
   <img src="https://wakatime.com/share/@norictech/fb139809-f1a5-437a-aebd-83464df376b1.svg" height="300" />
 </p>

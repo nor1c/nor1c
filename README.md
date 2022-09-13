@@ -4,9 +4,9 @@
   <a target="_blank" href="https://keybase.io/nor1c">keybase</a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://c.tenor.com/9KSO758KczwAAAAC/anime-welcome.gif">
-</p>
+</p> -->
 
 Hi, I'm Fauzi, a web developer based in Asia, I'm currently creating an open-source platform for artists ([Upy](https://github.com/uuppyy)), if you like what we do you can help us by [sponsoring](https://github.com/sponsors/uuppyy) the project or you can also contribute to the project.
 

@@ -8,11 +8,11 @@
   <img src="https://c.tenor.com/9KSO758KczwAAAAC/anime-welcome.gif">
 </p> -->
 
-Hi, I'm Fauzi, a web developer based in Asia, I'm currently creating an open-source platform for artists ([Upy](https://github.com/uuppyy)), if you like what we do you can help us by [sponsoring](https://github.com/sponsors/uuppyy) the project or you can also contribute to the project.
+Hi, I'm Fauzi, a web developer based in Asia, I'm currently creating an open-source platform for artists ([Upy](https://github.com/upyapp)), if you like what we do you can help us by [sponsoring](https://github.com/sponsors/upyapp) the project or you can also contribute to the project.
 
 Your sponsorship helps our project stay active and grow even better, every sponsorship means a lot to us.
 
-<a align="center" href="https://github.com/sponsors/uuppyy"><b>Sponsor Us</b></a>
+<a align="center" href="https://github.com/sponsors/upyapp"><b>Sponsor Us</b></a>
 
 <hr>
 

@@ -21,6 +21,12 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 <hr>
 
 <p align="center">
+   <a href="mailto:workmail.fauzi@gmail.com">Hire Me</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c/nor1c/raw/master/Ahmad%20Fauzi's%20Portfolio.pdf">My Portfolio</a>
+</p>
+
+<hr>
+
+<p align="center">
   <img src="https://wakatime.com/share/@norictech/fb139809-f1a5-437a-aebd-83464df376b1.svg" height="300" />
 </p>
 

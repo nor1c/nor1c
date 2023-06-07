@@ -40,7 +40,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 </p> -->
   
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=45yc0u5bhjldoswyfev2db2lb&cover_image=true&theme=natemoo-re">
+  <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=45yc0u5bhjldoswyfev2db2lb&cover_image=true&theme=natemoo-re"> -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=nor1c&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />
 </p>

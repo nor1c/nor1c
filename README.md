@@ -23,7 +23,8 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 <p align="center">
   ~ I'm currently open for opportunity ~
-  <br><a href="mailto:workmail.fauzi@gmail.com">Hire Me (mail)</a> or via (<a href="https://twitter.com/nor1c_">twt</a>) &nbsp; | &nbsp; <a href="https://github.com/nor1c/nor1c/raw/master/Ahmad%20Fauzi's%20Portfolio.pdf">My Portfolio</a>
+  <br>
+  <br><a href="mailto:workmail.fauzi@gmail.com">Hire Me (mail)</a>) &nbsp; | &nbsp; <a href="https://github.com/nor1c/nor1c/raw/master/Ahmad%20Fauzi's%20Portfolio.pdf">Portfolios</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c-work-archive">Portfolio Repos/Work History Repos</a>
 </p>
 
 <hr>

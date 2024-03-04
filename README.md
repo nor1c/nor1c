@@ -61,6 +61,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - Laravel
 - VueJS
 - TailwindCSS
+- jQuery
 
 ### > Not really interested but good to go:
 - CI4

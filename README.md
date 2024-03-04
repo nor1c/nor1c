@@ -24,7 +24,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 <p align="center">
   ~ I'm currently open for opportunity ~
   <br>
-  <br><a href="mailto:workmail.fauzi@gmail.com">Hire Me (mail)</a>) &nbsp; | &nbsp; <a href="https://github.com/nor1c/nor1c/raw/master/Ahmad%20Fauzi's%20Portfolio.pdf">Portfolios</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c-work-archive">Portfolio Repos/Work History Repos</a>
+  <br><a href="mailto:workmail.fauzi@gmail.com">Hire Me (mail)</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c/nor1c/raw/master/Ahmad%20Fauzi's%20Portfolio.pdf">Portfolios</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c-work-archive">Portfolio Repos/Work History Repos</a>
 </p>
 
 <hr>
@@ -45,3 +45,25 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
   <br>
   <img src="https://komarev.com/ghpvc/?username=nor1c&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />
 </p>
+
+<hr>
+
+### > Links
+- <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
+- <a href="https://x.com/nor1c_">X</a>
+- <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS (inactive)</a>
+- <a href="https://github.com/sponsor/nor1c">Sponsor Me</a>
+
+### > Main stacks:
+- ExpressJS
+- NestJS (actually I'm ok with any Node.js frameworks, they are all the same tho)
+- CI3
+- Laravel
+- VueJS
+- TailwindCSS
+
+### > Not really interested but good to go:
+- CI4
+- Go
+- ReactJS
+- Flutter

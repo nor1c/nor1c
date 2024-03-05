@@ -51,7 +51,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 ### > Links
 - <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
 - <a href="https://x.com/nor1c_">X</a>
-- <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS (inactive)</a>
+- <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS (discontinued)</a>
 - <a href="https://github.com/sponsor/nor1c">Sponsor Me</a>
 
 ### > Main stacks:

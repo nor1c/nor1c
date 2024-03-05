@@ -59,12 +59,14 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - NestJS (actually I'm ok with any Node.js frameworks, they are all the same tho)
 - CI3
 - Laravel
-- VueJS
+- VueJS/NuxtJS
 - TailwindCSS
 - jQuery
 
 ### > Not really interested but good to go:
-- CI4
-- Go
-- ReactJS
+- CI4 or any PHP frameworks
+- Go and its frameworks(libraries)
+- ReactJS/NextJS
+- Inertia
+- Livewire
 - Flutter

@@ -56,7 +56,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 ### > Main stacks:
 - ExpressJS
-- NestJS (actually I'm ok with any Node.js frameworks, they are all the same tho)
+- NestJS (actually, I'm ok with any Node.js frameworks, they are all the same tho)
 - CI3
 - Laravel
 - VueJS/NuxtJS

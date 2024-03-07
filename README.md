@@ -52,21 +52,23 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
 - <a href="https://x.com/nor1c_">X</a>
 - <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS (discontinued)</a>
+- <a href="https://neuvilabs.com">NeuviLabs</a>
+- <a href="https://rms.neuvilabs.com">NeuviLabs RMS</a>
 - <a href="https://github.com/sponsor/nor1c">Sponsor Me</a>
 
-### > Main stacks:
-- ExpressJS
+### > Main stacks
+- ExpressJS, Tsyringe/Inversify
 - NestJS (actually, I'm ok with any Node.js frameworks, they are all the same tho)
 - CI3
 - Laravel
-- VueJS/NuxtJS
+- Inertia
+- Go and its frameworks(libraries)
+- Vue 2, Vue 3, Vue Composition API, Nuxt 2, Nuxt 3
 - TailwindCSS
 - jQuery
 
-### > Not really interested but good to go:
+### > Not really interested but good to go
 - CI4 or any PHP frameworks
-- Go and its frameworks(libraries)
-- ReactJS/NextJS
-- Inertia
+- React, NextJS
 - Livewire
 - Flutter

@@ -62,7 +62,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - CI3
 - Laravel
 - Inertia
-- Go and its frameworks(libraries)
+- Go and its frameworks
 - Vue 2, Vue 3, Vue Composition API, Nuxt 2, Nuxt 3
 - TailwindCSS
 - jQuery
@@ -76,7 +76,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 &nbsp;
 
 <p align="center">
-  <a href="https://github.com/upydotmoe"><img src="https://avatars.githubusercontent.com/u/87591963?s=200&v=4" alt="Upy" width="50px" height="50px" /></a>
+  <a href="https://github.com/upydotmoe"><img src="https://avatars.githubusercontent.com/u/87591963?s=200&v=4" alt="Upy" width="30px" height="30px" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/neuvilabs"><img src="https://avatars.githubusercontent.com/u/162428098?s=200&v=4" alt="NeuviLabs" width="50px" height="50px"></a>
+  <a href="https://github.com/neuvilabs"><img src="https://avatars.githubusercontent.com/u/162428098?s=200&v=4" alt="NeuviLabs" width="30px" height="30px"></a>
 </p>

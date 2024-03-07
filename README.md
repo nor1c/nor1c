@@ -72,3 +72,11 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - React, NextJS
 - Livewire
 - Flutter
+
+&nbsp;
+
+<p align="center">
+  <a href="https://github.com/upydotmoe"><img src="https://avatars.githubusercontent.com/u/87591963?s=200&v=4" alt="Upy" width="50px" height="50px" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/neuvilabs"><img src="https://avatars.githubusercontent.com/u/162428098?s=200&v=4" alt="NeuviLabs" width="50px" height="50px"></a>
+</p>

@@ -73,10 +73,9 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - Livewire
 - Flutter
 
-&nbsp;
-
-<p align="center">
-  <a href="https://github.com/upydotmoe"><img src="https://avatars.githubusercontent.com/u/87591963?s=200&v=4" alt="Upy" width="30px" height="30px" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/neuvilabs"><img src="https://avatars.githubusercontent.com/u/162428098?s=200&v=4" alt="NeuviLabs" width="30px" height="30px"></a>
-</p>
+### > Community Contributions
+- [vue-tagsinput](https://github.com/nor1c/vue-tagsinput)
+  - Added support for Vue 3
+  - Added Vite
+  - Fixed major and minor issues
+  - Added some new minor features

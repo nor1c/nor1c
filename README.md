@@ -50,10 +50,8 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 ### > Links
 - <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
-- <a href="https://x.com/nor1c_">X</a>
-- <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS (discontinued)</a>
-- <a href="https://neuvilabs.com">NeuviLabs</a>
-- <a href="https://rms.neuvilabs.com">NeuviLabs RMS</a>
+- <a href="https://x.com/nor1c_">X/Twitter</a>
+- <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS</a>
 - <a href="https://github.com/sponsor/nor1c">Sponsor Me</a>
 
 ### > Main stacks
@@ -73,9 +71,13 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - Livewire
 - Flutter
 
+### > Personal Projects
+- **[Upy](https://github.com/upydotmoe)** - An art-sharing platform for Artists that is free from AI-generated content.
+  It's currently in hibernate mode because it lacks public support, and of course, I can't maintain it alone. If you want to help me revive this platform, feel free to support me and send me a message to my **[X/Twitter](https://x.com/nor1c_)** or consider sponsoring it => **[Sponsor Upy](https://github.com/sponsors/upydotmoe)**.
+
 ### > Community Contributions
-- [vue-tagsinput](https://github.com/nor1c/vue-tagsinput)
+- **[vue-tagsinput](https://github.com/nor1c/vue-tagsinput)**
   - Added support for Vue 3
-  - Added Vite
+  - Migrated to Vite
   - Fixed major and minor issues
   - Added some new minor features

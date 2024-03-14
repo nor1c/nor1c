@@ -73,7 +73,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 ### > Personal Projects
 - **[Upy](https://github.com/upydotmoe)** - An art-sharing platform for Artists that is free from AI-generated content.
-  It's currently in hibernate mode because it lacks public support, and of course, I can't maintain it alone. If you want to help me revive this platform, feel free to support me and send me a message to my **[X/Twitter](https://x.com/nor1c_)** or consider sponsoring it => **[Sponsor Upy](https://github.com/sponsors/upydotmoe)**.
+  <br>It's currently in hibernate mode because it lacks public support, and of course, I can't maintain it alone. If you want to help me revive this platform, feel free to support me and send me a message to my **[X/Twitter](https://x.com/nor1c_)** or consider sponsoring it => **[Sponsor Upy](https://github.com/sponsors/upydotmoe)**.
 
 ### > Community Contributions
 - **[vue-tagsinput](https://github.com/nor1c/vue-tagsinput)**

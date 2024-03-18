@@ -27,26 +27,12 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
   <br><a href="mailto:workmail.fauzi@gmail.com">Hire Me (mail)</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c/nor1c/raw/master/Ahmad%20Fauzi's%20Portfolio.pdf">Portfolios</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c-work-archive">Portfolio Repos/Work History Repos</a>
 </p>
 
-<hr>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@norictech/fb139809-f1a5-437a-aebd-83464df376b1.svg" height="300" />
-</p>
-
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nor1c&theme=nord_dark" height="150">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nor1c&theme=nord_dark" height="149" width="210">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nor1c&theme=nord_dark" height="149" width="210">
 </p> -->
-  
-<p align="center">
-  <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=45yc0u5bhjldoswyfev2db2lb&cover_image=true&theme=natemoo-re"> -->
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=nor1c&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />
-</p>
-
-<hr>
 
 ### > Links
 - <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
@@ -60,16 +46,31 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - CI3
 - Laravel
 - Inertia
-- Go and its frameworks
 - Vue 2, Vue 3, Vue Composition API, Nuxt 2, Nuxt 3
 - TailwindCSS
 - jQuery
 
 ### > Not really interested but good to go
+- Go and its frameworks
 - CI4 or any PHP frameworks
 - React, NextJS
 - Livewire
 - Flutter
+ 
+### > Work History
+```
+├── Backend Developer - CV Adaptive Kreasi Teknologi
+├── Freelance Web Developer - Depot Pangan
+├── Freelance Senior Web Developer - Penerbit Duta (member of Ganesha Operation Group)
+├── Fullstack Web Developer - PT Reinovasi Zona Kreasi
+│   ├── +Flutter Mobile Developer
+│   └── +Senior and Lead Programmer
+├── Freelance Web Developer - Kemdikbud - BBPPMPV Bisnis dan Pariwisata
+├── Fullstack Web Developer - CV Falitechno Mandiri
+└── Junior Web Developer - PT Admaresi Globalindo
+    └── +IT Helpdesk - PT Tiga Tunas Sejahtera (parent company of PT Admaresi Globalindo)
+```
+
 
 ### > Personal Projects
 - **[Upy](https://github.com/upydotmoe)** - An art-sharing platform for Artists that is free from AI-generated content.
@@ -81,3 +82,15 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
   - Migrated to Vite
   - Fixed major and minor issues
   - Added some new minor features
+
+<hr>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@norictech/fb139809-f1a5-437a-aebd-83464df376b1.svg" height="300" />
+</p>
+  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=45yc0u5bhjldoswyfev2db2lb&cover_image=true&theme=natemoo-re">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=nor1c&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />
+</p>

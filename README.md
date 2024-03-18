@@ -78,6 +78,8 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 ### > Community Contributions
 - **[vue-tagsinput](https://github.com/nor1c/vue-tagsinput)**
+  <br><br>**Motivation:** I was working on one of my personal projects, and then I found a helpful library, but sadly it's not maintained anymore, a.k.a abandoned by the creator/maintainer, and at times it doesn't work for the latest Vue version, so I decided to fix that major issue and other minor issues that have been ignored for a long time. Also, I added some new features to make it better.
+  
   - Added support for Vue 3
   - Migrated to Vite
   - Fixed major and minor issues

@@ -38,7 +38,8 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
 - <a href="https://x.com/nor1c_">X/Twitter</a>
 - <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS</a>
-- <a href="https://github.com/sponsor/nor1c">Sponsor Me</a>
+- <a href="https://github.com/sponsors/nor1c">Sponsor Me</a>
+- <a href="https://github.com/sponsors/upydotmoe">Sponsor Upy</a>
 
 ### > Main stacks
 - ExpressJS, Tsyringe/Inversify

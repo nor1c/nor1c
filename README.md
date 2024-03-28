@@ -52,7 +52,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 ### > Notable projects I've worked on
 
 - SISMIOP (Sistem Informasi Manajemen Obyek Pajak) a Government Tax Payment System for Minahasa, Minahasa Utara, Minahasa Selatan, Minahasa Timur, and Tondano regencies (2016-2018)
-- Blackberry Indonesia's Retail Management System (retail management system for Blackberry Aurora) (2017-2018)
+- [Blackberry](https://www.blackberry.com/) Indonesia's Retail Management System (retail management system for Blackberry Aurora) (2017-2018)
 - [SAMRS](https://samrs.cloud/) (Sistem Aset Manajemen Rusak Sakit / Hospital Asset and Instrument Management) (2018-2020)
 - [SinarMas BerauCoal Energy Indonesia](https://www.beraucoalenergy.co.id/)'s Critical Project Management (Project Management Tool for Mining Personnel) (2021-2023)
 - [Prospero](https://prosperosolutions.co.id/) Bank Syariah Indonesia's Enterprise Risk Management System (ERMS) (2023-2024)

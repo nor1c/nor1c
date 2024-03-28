@@ -34,27 +34,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nor1c&theme=nord_dark" height="149" width="210">
 </p> -->
 
-### > Links
-- <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
-- <a href="https://x.com/nor1c_">X/Twitter</a>
-- <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS</a>
-- <a href="https://github.com/sponsors/nor1c">Sponsor Me</a>
-- <a href="https://github.com/sponsors/upydotmoe">Sponsor Upy</a>
 
-### > Main stacks
-- ExpressJS, NestJS
-- CI3, Laravel, Inertia
-- Vue 2, Vue 3, Vue Composition API, Nuxt 2, Nuxt 3
-- TailwindCSS
-- jQuery
-
-### > Not really interested but good to go
-- Go and its frameworks
-- CI4 or any PHP frameworks
-- React, NextJS
-- Livewire
-- Flutter
- 
 ### > Work History
 ```
 ├── Backend Developer - CV Adaptive Kreasi Teknologi
@@ -76,6 +56,27 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - [SAMRS](https://samrs.cloud/) (Sistem Aset Manajemen Rusak Sakit / Hospital Asset and Instrument Management) (2018-2020)
 - [SinarMas BerauCoal Energy Indonesia](https://www.beraucoalenergy.co.id/)'s Critical Project Management (Project Management Tool for Mining Personnel) (2021-2023)
 - [Prospero](https://prosperosolutions.co.id/) Bank Syariah Indonesia's Enterprise Risk Management System (ERMS) (2023-2024)
+
+### > Links
+- <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
+- <a href="https://x.com/nor1c_">X/Twitter</a>
+- <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS</a>
+- <a href="https://github.com/sponsors/nor1c">Sponsor Me</a>
+- <a href="https://github.com/sponsors/upydotmoe">Sponsor Upy</a>
+
+### > Main stacks
+- ExpressJS, NestJS
+- CI3, Laravel, Inertia
+- Vue 2, Vue 3, Vue Composition API, Nuxt 2, Nuxt 3
+- TailwindCSS
+- jQuery
+
+### > Not really interested but good to go
+- Go and its frameworks
+- CI4 or any PHP frameworks
+- React, NextJS
+- Livewire
+- Flutter
 
 ### > Personal Projects
 - **[Upy](https://github.com/upydotmoe)** - An art-sharing platform for Artists that is free from AI-generated content.

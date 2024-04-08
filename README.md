@@ -64,19 +64,13 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - <a href="https://github.com/sponsors/nor1c">Sponsor Me</a>
 - <a href="https://github.com/sponsors/upydotmoe">Sponsor Upy</a>
 
-### > Main stacks
-- ExpressJS, NestJS
+### > Frequently Used Stacks
+- NestJS, ExpressJS
 - CI3, Laravel, Inertia
-- Vue 2, Vue 3, Vue Composition API, Nuxt 2, Nuxt 3
-- TailwindCSS
+- Vue 2 & 3, Nuxt 2 & 3
 - jQuery
-
-### > Not really interested but good to go
-- Go and its frameworks
-- CI4 or any PHP frameworks
-- React, NextJS
-- Livewire
-- Flutter
+- React
+- TailwindCSS, Bootstrap
 
 ### > Personal Projects
 - **[Upy](https://github.com/upydotmoe)** - An art-sharing platform for Artists that is free from AI-generated content.

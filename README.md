@@ -37,13 +37,14 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 ### > Work History
 ```
-├── Backend Developer - CV Adaptive Kreasi Teknologi
+├── Freelance Developer (2024, Diklat Selection Project) (active) - Kemdikbud - BBPPMPV Bisnis dan Pariwisata
+├── Backend Developer (active) - CV Adaptive Kreasi Teknologi
 ├── Freelance Web Developer - Depot Pangan
 ├── Freelance Senior Web Developer - Penerbit Duta (member of Ganesha Operation Group)
 ├── Fullstack Web Developer - PT Reinovasi Zona Kreasi
 │   ├── +Flutter Mobile Developer
 │   └── +Senior and Lead Programmer
-├── Freelance Web Developer - Kemdikbud - BBPPMPV Bisnis dan Pariwisata
+├── Freelance Web Developer (2019, SIMPEG Project) - Kemdikbud - BBPPMPV Bisnis dan Pariwisata
 ├── Fullstack Web Developer - CV Falitechno Mandiri
 └── Junior Web Developer - PT Admaresi Globalindo
     └── +IT Helpdesk - PT Tiga Tunas Sejahtera (parent company of PT Admaresi Globalindo)

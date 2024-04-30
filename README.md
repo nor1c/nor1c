@@ -94,8 +94,8 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
   <img src="https://wakatime.com/share/@norictech/fb139809-f1a5-437a-aebd-83464df376b1.svg" height="300" />
 </p>
   
-<p align="center">
+<!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=45yc0u5bhjldoswyfev2db2lb&cover_image=true&theme=novatorem">
   <br>
   <img src="https://komarev.com/ghpvc/?username=nor1c&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />
-</p>
+</p> -->

@@ -39,8 +39,8 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 ```
 ├── Freelance Developer (2024, Diklat Selection Project) (active) - Kemdikbud - BBPPMPV Bisnis dan Pariwisata
 ├── Backend Developer (active) - CV Adaptive Kreasi Teknologi
+├── Freelance Senior Web Developer (active) - Penerbit Duta (member of Ganesha Operation Group)
 ├── Freelance Web Developer - Depot Pangan
-├── Freelance Senior Web Developer - Penerbit Duta (member of Ganesha Operation Group)
 ├── Fullstack Web Developer - PT Reinovasi Zona Kreasi
 │   ├── +Flutter Mobile Developer
 │   └── +Senior and Lead Programmer

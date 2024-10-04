@@ -63,9 +63,7 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 ### > Links
 - <a href="https://nor1c.vercel.app">Blog (inactive, bad grammar)</a>
 - <a href="https://x.com/nor1c_">X/Twitter</a>
-- <a href="https://github.com/upydotmoe">Upy - Art Sharing Platform - OSS</a>
-- <a href="https://github.com/sponsors/nor1c">Sponsor Me</a>
-- <a href="https://github.com/sponsors/upydotmoe">Sponsor Upy</a>
+- <a href="https://github.com/sponsors/nor1c">Sponsor</a>
 
 ### > Frequently Used Stacks
 - NestJS, ExpressJS
@@ -75,9 +73,11 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 - React
 - TailwindCSS, Bootstrap
 
+<!--
 ### > Personal Projects
 - **[Upy](https://github.com/upydotmoe)** - An art-sharing platform for Artists that is free from AI-generated content.
   <br>It's currently in hibernate mode because it lacks public support, and of course, I can't maintain it alone. If you want to help me revive this platform, feel free to support me and send me a message to my **[X/Twitter](https://x.com/nor1c_)** or consider sponsoring it => **[Sponsor Upy](https://github.com/sponsors/upydotmoe)**.
+  -->
 
 ### > Community Contributions
 - **[vue-tagsinput](https://github.com/nor1c/vue-tagsinput)**

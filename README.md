@@ -6,7 +6,7 @@
 
 <!-- <p align="center">
   <img src="https://c.tenor.com/9KSO758KczwAAAAC/anime-welcome.gif">
-</p> -->
+</p> --> 
 
 <!-- Hi, I'm Fauzi, a web developer based in Asia. Currently, I'm working on an open-source platform for artists called ([Upy](https://github.com/upydotmoe)). We recognize that many popular platforms, such as Pixiv, DeviantArt, and Artstation, have left many artists disappointed by allowing AI-generated images on their platform. That's why we are here to offer an alternative that supports and encourages human creativity.
 
@@ -21,11 +21,13 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 <!-- <hr> -->
 
+<!--
 <p align="center">
   ~ I'm currently open for opportunity ~
   <br>
   <br><a href="mailto:workmail.fauzi@gmail.com">Hire Me (mail)</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c/nor1c/raw/master/Ahmad%20Fauzi's%20Portfolio.pdf">Portfolios</a> &nbsp; | &nbsp; <a href="https://github.com/nor1c-work-archive">Portfolio Repos/Work History Repos</a>
 </p>
+-->
 
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nor1c&theme=nord_dark" height="150">

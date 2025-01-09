@@ -39,8 +39,9 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 ### > Work History
 ```
-├── Freelance Developer (2024, Diklat Selection Project) (active) - Kemdikbud - BBPPMPV Bisnis dan Pariwisata
-├── Backend Developer (active) - CV Adaptive Kreasi Teknologi
+├── AI Creator
+├── Senior Backend Developer - CV Adaptive Kreasi Teknologi
+├── Senior Developer (2024, Diklat Selection Project) - Kemdikbud - BBPPMPV Bisnis dan Pariwisata
 ├── Freelance Senior Web Developer (active) - Penerbit Duta (member of Ganesha Operation Group)
 ├── Freelance Web Developer - Depot Pangan
 ├── Fullstack Web Developer - PT Reinovasi Zona Kreasi

@@ -38,6 +38,10 @@ If you like what we do you can help us by [sponsoring](https://github.com/sponso
 
 
 ### > Work History
+
+<br>
+Mostly doing AI, no longer in corporate programming, mostly creating hobby and personal use apps.
+
 ```
 ├── AI Creator
 ├── Senior Backend Developer - CV Adaptive Kreasi Teknologi
